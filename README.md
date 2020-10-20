@@ -10,8 +10,8 @@
 1. .NET Core 依賴性注入 (Dependency Injection)（未開始）
 1. Entity Framework （未開始）
 1. .NET Core 網頁系統常見開發架構（未開始）
-  1. 分層
-  1. UnitOfWork
+    1. 分層
+    1. UnitOfWork
   
 ## 參考資料
 1. [微軟官方說明文件](https://docs.microsoft.com/zh-tw/dotnet/core/introduction)
